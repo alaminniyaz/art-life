@@ -76,3 +76,7 @@ body {
     filter: blur(3px);
   -webkit-filter: blur(3px);
 }
+
+.link {
+    text-decoration: none;
+}

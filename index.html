@@ -333,22 +333,27 @@
                     <form action="https://formspree.io/f/myyagyrq" method="post" class="bg-light p-4 m-auto">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="mb-3">
-                                    <input type="text" name="Name" class="form-control" required placeholder="Your Full Name">
+                                <div class="form-floating mb-3">
+                                    <input type="text" name="Name" class="form-control rounded-3" required placeholder="Your Full Name">
+                                    <label for="Name" class="text-muted"> Your Full Name </label>
                                 </div>
                             </div>
                             <div class="col-md-12">
-                                <div class="mb-3">
-                                    <input type="email" name="Email" class="form-control" required placeholder="Your Email Here">
+                                <div class="form-floating mb-3">
+                                    <input type="email" name="Email" class="form-control rounded-3" required placeholder="Your Email Here">
+                                    <label for="Email" class="text-muted"> Your Email Here </label>
                                 </div>
                             </div>
                             <div class="col-md-12">
-                                <div class="mb-3">
-                                    <textarea rows="3" name="Message" required class="form-control" placeholder="Your Message"></textarea>
+                                <div class="form-floating mb-3">
+                                    <textarea name="Message" required class="form-control rounded-3" placeholder="Your Message" style="height: 200px;"></textarea>
+                                    <label for="Message" class="text-muted">
+                                         Your Message
+                                    </label>
                                 </div>
                             </div>
     
-                            <button class="btn btn-warning btn-lg btn-block mt-3">
+                            <button class="btn btn-warning btn-lg btn-block mt-3 rounded-5">
                                 Send Now
                             </button>
                         </div>

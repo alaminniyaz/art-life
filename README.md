@@ -7,13 +7,6 @@
 ![art life](https://user-images.githubusercontent.com/104723233/222161948-6110a3c0-d202-4369-ba68-f44518f92a53.jpg)
 
 
-
-## About 📄
-
-- YOUR DREAM HOME
-- ALWAYS DEDICATED
-- TRUE CONSTRUCTION
-- Provide Best Quality Services Ever
 ## Sections 🎯
 
 - **Home**
